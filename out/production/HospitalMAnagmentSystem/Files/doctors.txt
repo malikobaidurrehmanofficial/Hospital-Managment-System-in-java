@@ -1,0 +1,2 @@
+77|Saqib Malik|default_password|MBBS
+78|Aftab Alam|default_password|MBBS

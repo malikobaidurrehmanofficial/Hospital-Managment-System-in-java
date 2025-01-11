@@ -1,0 +1,2 @@
+3000|Panadol|20.0|true
+3001|Calpol|50.0|true

@@ -1,0 +1,4 @@
+2000|Medical Ward A(Male)|90|0
+2001|Medical Ward B(Female)|90|0
+2002|Medical Ward A(Female)|90|0
+2003|Medical Ward B(Male)|90|0
